@@ -1,9 +1,21 @@
-<h1 align="left">Hi, I'm Ali </h1>
+<h1 align="left">Hi, I'm Ali Noor</h1>
 
-## About Me
+<p align="left">
+  CS undergraduate building things from scratch to understand them from within.<br/>
+  Deep interest in ML, AI security, and systems that actually work at the low level.
+</p>
 
-I'm a Computer Science undergraduate passionate about building everything. I like to build from scratch to understand what's happening underneath. Currently I have a deep found love for Artificial Intelligence be it algorithms, neural networks, LLMs, AI Agents etc, I am learning to understand these concepts and then build them from scratch.
-  
+<p align="left">
+  <a href="https://linkedin.com/in/ali-noor04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alinoor3865@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## What I'm working on
+
+Right now I'm focused on ML fundamentals — building regression and classification models from first principles, completing Andrew Ng's ML Specialization, and exploring how LLMs can be secured and extended.
+
 ---
 
 ## Tech Stack
@@ -17,19 +29,29 @@ I'm a Computer Science undergraduate passionate about building everything. I lik
 **ML / Data**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
-Linear & Logistic Regression · Gradient Descent · Supervised Learning · Vectorized Matrix Ops
+Linear & Logistic Regression · Gradient Descent · Decision Trees · XGBoost · Feature Selection · Supervised Learning
+
+**Web / Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **CS Concepts**
 
-Data Structures & Algorithms · OOP · Socket Programming · SSL/TLS · RBAC · File I/O
+Data Structures & Algorithms · OOP · Socket Programming · SSL/TLS · RBAC · File I/O · REST APIs
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%2FWSL-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -43,6 +65,4 @@ Data Structures & Algorithms · OOP · Socket Programming · SSL/TLS · RBAC · 
 
 ---
 
-<p align="center">
-  <i>"Build from scratch. Understand from within."</i>
-</p>
+<p align="center"><i>"Build from scratch. Understand from within."</i></p>

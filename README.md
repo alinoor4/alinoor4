@@ -2,7 +2,6 @@
 <h3 align="center">AI Engineer & Researcher — Machine Learning, LLM Safety & Reproducible Research</h3>
 
 <p align="center">
-  <a href="https://alinoor.me"><img src="https://img.shields.io/badge/Portfolio-alinoor.me-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/alinoor4"><img src="https://img.shields.io/badge/GitHub-alinoor4-181717?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Pakistan-006600?style=flat-square" />
 </p>
@@ -43,15 +42,8 @@ I work across both sides of AI: **building** production ML/LLM systems and **res
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinoor4&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinoor4&layout=compact&hide_border=true" height="165" />
-</p>
-
 ---
 
 <p align="center">
-📫 Reach me via <a href="https://alinoor.me">alinoor.me</a> — open to AI engineering roles and research collaborations.
+📫 Open to AI engineering roles and research collaborations — reach out via GitHub.
 </p>

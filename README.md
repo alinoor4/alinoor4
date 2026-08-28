@@ -1,68 +1,57 @@
-<h1 align="left">Hi, I'm Ali Noor</h1>
-
-<p align="left">
-  CS undergraduate building things from scratch to understand them from within.<br/>
-  Deep interest in ML, AI security, and systems that actually work at the low level.
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/ali-noor04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alinoor3865@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## What I'm working on
-
-Right now I'm focused on ML fundamentals — building regression and classification models from first principles, completing Andrew Ng's ML Specialization, and exploring how LLMs can be secured and extended.
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20(T--SQL)-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-**ML / Data**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-
-Linear & Logistic Regression · Gradient Descent · Decision Trees · XGBoost · Feature Selection · Supervised Learning
-
-**Web / Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**CS Concepts**
-
-Data Structures & Algorithms · OOP · Socket Programming · SSL/TLS · RBAC · File I/O · REST APIs
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%2FWSL-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## GitHub Stats
+<h1 align="center">Hi, I'm Ali Noor 👋</h1>
+<h3 align="center">AI Engineer & Researcher — Machine Learning, LLM Safety & Reproducible Research</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinoor4&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinoor4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://alinoor.me"><img src="https://img.shields.io/badge/Portfolio-alinoor.me-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/alinoor4"><img src="https://img.shields.io/badge/GitHub-alinoor4-181717?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan-006600?style=flat-square" />
+</p>
+
+I work across both sides of AI: **building** production ML/LLM systems and **researching** how models actually behave. I like reproducing results from papers to understand *why* something works, not just that it does — and I bring that same rigor to the systems I engineer, so what I ship is as well-understood as it is well-documented.
+
+---
+
+### 🔬 Research
+
+**[grokking-repo](https://github.com/alinoor4/grokking-repo)** — Reproduction of *"Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets"* (Power et al., 2022, [arXiv:2201.02177](https://arxiv.org/abs/2201.02177)). Trains a small causal transformer on modular arithmetic and tracks weight norm during training to directly test *whether weight decay causes grokking by shrinking weights* — going past accuracy curves to test the paper's actual mechanistic claim.
+
+**[llm-security-gateway](https://github.com/alinoor4/llm-security-gateway)** — A FastAPI gateway that sits in front of LLM inputs and runs a 4-stage pipeline (prompt-injection scoring → PII detection via Microsoft Presidio → policy decision → safe output handling) to allow, mask, or block requests before they reach a model.
+
+**[flyrank-internship](https://github.com/alinoor4/flyrank-internship)** — Capstone research project on ranking-signal analysis and opportunity scoring over a ~79M-row search dataset, written up as a deployed research paper with an accompanying Colab notebook.
+
+**[linear_regression_model](https://github.com/alinoor4/linear_regression_model)** — Univariate and multivariate linear regression implemented from scratch in NumPy (cost function, gradients, and gradient descent by hand — no scikit-learn) to build first-principles intuition for how models actually learn.
+
+### 🛠️ Engineering
+
+- **[little-lemon-restaurant-api](https://github.com/alinoor4/little-lemon-restaurant-api)** — Django REST API with token auth, role-based permissions, and a full cart/menu system.
+- **[movie-app](https://github.com/alinoor4/movie-app)** — Full-stack Django + JS movie inventory app with a REST API, [deployed on Render](https://movie-app-rxre.onrender.com/).
+- **[python-socket-repo](https://github.com/alinoor4/python-socket-repo)** — A Python socket-based chatbot client.
+- Database and systems projects: gym, blood-bank, morgue, and food-ordering management systems (Java/Python/T-SQL).
+
+---
+
+### ⚙️ Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alinoor4&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinoor4&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
 
-<p align="center"><i>"Build from scratch. Understand from within."</i></p>
+<p align="center">
+📫 Reach me via <a href="https://alinoor.me">alinoor.me</a> — open to AI engineering roles and research collaborations.
+</p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali Noor 👋</h1>
-<h3 align="center">AI Engineer & Researcher — Machine Learning, LLM Safety & Reproducible Research</h3>
+<h3 align="center">AI Engineer & Researcher — Machine Learning & Research</h3
 
 <p align="center">
   <a href="https://github.com/alinoor4"><img src="https://img.shields.io/badge/GitHub-alinoor4-181717?style=flat-square&logo=github" /></a>

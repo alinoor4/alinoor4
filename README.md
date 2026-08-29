@@ -1,16 +1,11 @@
-<h1 align="center">Hi, I'm Ali Noor 👋</h1>
+<h1 align="center">Hi, I'm Ali Noor</h1>
 <h3 align="center">AI Engineer & Researcher</h3
-
-<p align="center">
-  <a href="https://github.com/alinoor4"><img src="https://img.shields.io/badge/GitHub-alinoor4-181717?style=flat-square&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Pakistan-006600?style=flat-square" />
-</p>
 
 I work across both sides of AI: **building** production ML/LLM systems and **researching** how models actually behave. I like reproducing results from papers to understand *why* something works, not just that it does — and I bring that same rigor to the systems I engineer, so what I ship is as well-understood as it is well-documented.
 
 ---
 
-### 🔬 Research
+### Research
 
 **[grokking-repo](https://github.com/alinoor4/grokking-repo)** — Reproduction of *"Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets"* (Power et al., 2022, [arXiv:2201.02177](https://arxiv.org/abs/2201.02177)). Trains a small causal transformer on modular arithmetic and tracks weight norm during training to directly test *whether weight decay causes grokking by shrinking weights* — going past accuracy curves to test the paper's actual mechanistic claim.
 
@@ -20,7 +15,7 @@ I work across both sides of AI: **building** production ML/LLM systems and **res
 
 **[linear_regression_model](https://github.com/alinoor4/linear_regression_model)** — Univariate and multivariate linear regression implemented from scratch in NumPy (cost function, gradients, and gradient descent by hand — no scikit-learn) to build first-principles intuition for how models actually learn.
 
-### 🛠️ Engineering
+### Engineering
 
 - **[little-lemon-restaurant-api](https://github.com/alinoor4/little-lemon-restaurant-api)** — Django REST API with token auth, role-based permissions, and a full cart/menu system.
 - **[movie-app](https://github.com/alinoor4/movie-app)** — Full-stack Django + JS movie inventory app with a REST API, [deployed on Render](https://movie-app-rxre.onrender.com/).
@@ -29,7 +24,7 @@ I work across both sides of AI: **building** production ML/LLM systems and **res
 
 ---
 
-### ⚙️ Tech I work with
+### Tech I work with
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />

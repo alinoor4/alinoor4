@@ -1,44 +1,55 @@
-<h1 align="center">Hi, I'm Ali Noor</h1>
-<h3 align="center">AI Engineer & Researcher</h3
+<h1 align="center">Ali Noor</h1>
 
-I work across both sides of AI: **building** production ML/LLM systems and **researching** how models actually behave. I like reproducing results from papers to understand *why* something works, not just that it does — and I bring that same rigor to the systems I engineer, so what I ship is as well-understood as it is well-documented.
+<p align="center">
+  <sub>CS undergraduate &nbsp;·&nbsp; aspiring AI/ML engineer &nbsp;·&nbsp; Pakistan</sub>
+</p>
 
----
+<p align="center">
+  <i>Build from scratch. Understand from within.</i>
+</p>
 
-### Research
-
-**[grokking-repo](https://github.com/alinoor4/grokking-repo)** — Reproduction of *"Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets"* (Power et al., 2022, [arXiv:2201.02177](https://arxiv.org/abs/2201.02177)). Trains a small causal transformer on modular arithmetic and tracks weight norm during training to directly test *whether weight decay causes grokking by shrinking weights* — going past accuracy curves to test the paper's actual mechanistic claim.
-
-**[llm-security-gateway](https://github.com/alinoor4/llm-security-gateway)** — A FastAPI gateway that sits in front of LLM inputs and runs a 4-stage pipeline (prompt-injection scoring → PII detection via Microsoft Presidio → policy decision → safe output handling) to allow, mask, or block requests before they reach a model.
-
-**[flyrank-internship](https://github.com/alinoor4/flyrank-internship)** — Capstone research project on ranking-signal analysis and opportunity scoring over a ~79M-row search dataset, written up as a deployed research paper with an accompanying Colab notebook.
-
-**[linear_regression_model](https://github.com/alinoor4/linear_regression_model)** — Univariate and multivariate linear regression implemented from scratch in NumPy (cost function, gradients, and gradient descent by hand — no scikit-learn) to build first-principles intuition for how models actually learn.
-
-### Engineering
-
-- **[little-lemon-restaurant-api](https://github.com/alinoor4/little-lemon-restaurant-api)** — Django REST API with token auth, role-based permissions, and a full cart/menu system.
-- **[movie-app](https://github.com/alinoor4/movie-app)** — Full-stack Django + JS movie inventory app with a REST API, [deployed on Render](https://movie-app-rxre.onrender.com/).
-- **[python-socket-repo](https://github.com/alinoor4/python-socket-repo)** — A Python socket-based chatbot client.
-- Database and systems projects: gym, blood-bank, morgue, and food-ordering management systems (Java/Python/T-SQL).
-
----
-
-### Tech I work with
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+<p align="center">
+  <a href="https://linkedin.com/in/ali-noor04"><img src="https://img.shields.io/badge/LinkedIn-ali--noor04-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alinoor3865@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
+### About
+
+I'm a computer science undergraduate who learns by rebuilding things from the ground up, because that's the fastest way I know to really understand them. My goal is to work in **AI development and research**, with a particular interest in how models work internally and how they can be made secure.
+
+### Currently
+
+- **Learning** — Andrew Ng's Machine Learning Specialization
+- **Building** — regression and classification models from first principles
+- **Exploring** — how LLMs can be secured and extended
+- **Aiming for** — AI development and research
+
+### Focus
+
+| Applied ML engineering | Research & experiments |
+| :--- | :--- |
+| Taking models from raw data to working systems: preparation, training, evaluation, and the APIs around them. | Understanding the math behind the methods, running controlled experiments, and questioning why things work. |
+
+### Tech Stack
+
+| | |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-24292f?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=white) |
+| **ML & Data** | ![NumPy](https://img.shields.io/badge/NumPy-24292f?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-24292f?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-24292f?style=flat-square&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-24292f?style=flat-square&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-24292f?style=flat-square&logo=django&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-24292f?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL-24292f?style=flat-square&logo=linux&logoColor=white) |
+
+<sub>**ML concepts** &nbsp; Linear & Logistic Regression · Gradient Descent · Decision Trees · XGBoost · Feature Selection · Supervised Learning</sub><br>
+<sub>**CS foundations** &nbsp; Data Structures & Algorithms · OOP · Socket Programming · SSL/TLS · RBAC · REST APIs</sub>
+
+### Projects
+
+I build in the open, so the code speaks for itself. Take a look at my pinned work above or browse all of my [repositories](https://github.com/alinoor4?tab=repositories).
+
+---
+
 <p align="center">
-📫 Open to AI engineering roles and research collaborations — reach out via GitHub.
+  <sub>Always learning, always building.</sub>
 </p>
